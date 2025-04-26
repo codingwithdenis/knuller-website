@@ -1,0 +1,42 @@
+body {
+    background-color: #FFCC03;
+}
+
+.bloco-principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-principal {
+    width: 50%;
+    height: auto;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 3vw;
+    text-align: center;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-weight: bold;
+
+}
+
+.destaque{
+    color: #e63946;
+}
+
+.bloco-conheca{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.prateleira{
+    width:40%;
+    height: auto; 
+}
+
+a {
+  color: #e63946;
+}
