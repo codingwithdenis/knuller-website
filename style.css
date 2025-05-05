@@ -45,3 +45,7 @@ footer{
   flex-direction: column;
   align-items: center;
 }
+.botao-whatsapp{
+  width: 20%;
+    height: auto;
+}
